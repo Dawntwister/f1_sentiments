@@ -17,6 +17,7 @@ Lib/
 Scripts/
 pyvenv.cfg
 Include/
+share/
 
 # Output files (e.g., scraped data)
 output/
