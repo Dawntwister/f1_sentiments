@@ -1,0 +1,24 @@
+# Scrapy-specific
+.scrapy/
+scrapy.log
+logs/
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+.env/
+
+# Output files (if any)
+output/
+*.sqlite
+*.json
+*.csv
+
+# Local config files (if any)
+settings_local.py
